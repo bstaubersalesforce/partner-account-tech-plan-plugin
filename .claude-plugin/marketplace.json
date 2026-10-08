@@ -1,0 +1,15 @@
+{
+  "name": "partner-account-tech-plan",
+  "owner": {
+    "name": "Brandon Stauber"
+  },
+  "description": "Stand-alone marketplace for the partner-account-tech-plan skill — the Tier-3 orchestrator that assembles a living, V2MOM-framed Partner Account Tech Plan for a strategic ISV/OEM partner.",
+  "plugins": [
+    {
+      "name": "partner-account-tech-plan",
+      "source": "./partner-account-tech-plan",
+      "displayName": "Partner Account Tech Plan",
+      "description": "Tier-3 orchestrator that composes partner-blocker-forge, tech-strat-pov-forge (POV + commercial/red-team/readiness/architecture), pie-poc-forge, and workshop-forge as subagents — adding a built-in Org62 case scan and a trust/relationship-posture overlay — into one living, V2MOM-framed Partner Account Tech Plan. Degrades gracefully when a subagent skill is absent; for the full set, install the partner-solutions suite."
+    }
+  ]
+}
