@@ -3,6 +3,12 @@
 Plugin version in `partner-account-tech-plan/.claude-plugin/plugin.json`. Bump on any material skill change that
 ships; record the source commit in `VENDOR.md`.
 
+## 0.1.1 — 2026-10-08
+
+Refreshes the skill to @51013ac — adds `refs/external-sources.md`, a catalog of external research sources
+(LinkedIn execs, SEC 10-K risk factors, press/newsroom, events, analyst/review, funding/ownership) wired into the
+profile and red-team/commercial stages. Vendored copy re-validates 13/13.
+
 ## 0.1.0 — 2026-10-08
 
 Initial stand-alone release. Marketplace + single-skill plugin carrying **partner-account-tech-plan** (@eb36eb6),

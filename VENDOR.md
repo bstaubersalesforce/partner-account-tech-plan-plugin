@@ -6,7 +6,7 @@ vendor time:
 
 | Skill | Source repo | Vendored @ commit | Date |
 |-------|-------------|-------------------|------|
-| `partner-account-tech-plan` | https://github.com/bstaubersalesforce/partner-account-tech-plan | `eb36eb6` | 2026-10-08 |
+| `partner-account-tech-plan` | https://github.com/bstaubersalesforce/partner-account-tech-plan | `51013ac` | 2026-10-08 |
 
 Re-run `scripts/sync-skill.sh` after committing changes in the source repo, then update this table + CHANGELOG and
 bump the plugin version in `partner-account-tech-plan/.claude-plugin/plugin.json`.

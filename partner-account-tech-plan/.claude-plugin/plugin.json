@@ -2,5 +2,5 @@
   "name": "partner-account-tech-plan",
   "displayName": "Partner Account Tech Plan",
   "description": "Tier-3 orchestrator skill: assembles a living, V2MOM-framed Partner Account Tech Plan for a strategic ISV/OEM partner by running partner-blocker-forge, tech-strat-pov-forge (and its commercial/red-team/readiness/architecture stages), pie-poc-forge, and workshop-forge as subagents, plus a built-in Org62 case scan and a trust/relationship-posture overlay. Dogfood-proven against Riskonnect.",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
